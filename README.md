@@ -59,14 +59,14 @@ Each sample contains **126 numerical features** representing hand landmark coord
 ### Accuracy Curves
 > *Baseline vs Transfer*
 
-![Example Accuracy Curve](<img width="1383" height="939" alt="isl_to_bengali_20251104_071830" src="https://github.com/user-attachments/assets/5ca53bc3-71e7-4b38-96d3-7476ee6ed4bf" />)
+![Example Accuracy Curve](<img width="1383" height="939" alt="isl_to_bengali_20251104_071830" src="https://github.com/user-attachments/assets/bfad33b9-42aa-49d3-92c5-5f4a305e059c" />
+)
 
 ### Confusion Matrices
 
 ![Example Confusion Matrix](<img width="1281" height="1093" alt="isl_to_bengali_cm_20251104_071830" src="https://github.com/user-attachments/assets/1add56ab-945b-41f0-896e-60d1b8f0939d" />
 )
 
-*(Replace paths with your final images)*
 
 ---
 
